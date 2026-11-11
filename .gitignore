@@ -1,0 +1,14 @@
+# build output
+/out/
+/build/
+/built/
+/.cache/
+
+# python
+__pycache__/
+*.pyc
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
